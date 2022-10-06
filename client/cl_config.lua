@@ -67,9 +67,7 @@ Config.GangMenus = {
 }
 
 Config.GangMenuZones = {
-    
     ['madrazo'] = {
         { coords = vector3(0.0, 0.0, 0.0), length = 0.0, width = 0.0, heading = 0.0, minZ = 0.0, maxZ = 0.0 },
     },
-    
 }
