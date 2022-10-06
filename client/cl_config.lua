@@ -61,12 +61,15 @@ Config.GangMenus = {
     ['families'] = {
         vector3(0, 0, 0),
     },
+    ['madrazo'] = {
+        vector3(0, 0, 0),
+    },
 }
 
 Config.GangMenuZones = {
-    --[[
-    ['gangname'] = {
+    
+    ['madrazo'] = {
         { coords = vector3(0.0, 0.0, 0.0), length = 0.0, width = 0.0, heading = 0.0, minZ = 0.0, maxZ = 0.0 },
     },
-    ]]
+    
 }
